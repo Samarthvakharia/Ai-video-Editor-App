@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Editor & Transition Generator",
+  "description": "A professional video editing workspace featuring AI-powered Veo 3 video generation, intelligent scene transition design, and mood-based color grading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
